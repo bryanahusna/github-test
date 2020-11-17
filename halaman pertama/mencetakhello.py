@@ -6,3 +6,5 @@ Created on Tue Nov 17 09:37:18 2020
 """
 
 print('Hello World')
+
+print('Luar Biasa')
